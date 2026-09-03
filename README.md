@@ -63,7 +63,6 @@ linkedin:  in/zhaochanglin
   <tr>
     <td align="center" width="92"><img src="https://cdn.simpleicons.org/minio" width="44" height="44" alt="MinIO" /><br>MinIO</td>
     <td align="center" width="92"><img src="https://cdn.simpleicons.org/neo4j" width="44" height="44" alt="Neo4j" /><br>Neo4j</td>
-    <td align="center" width="92">ChromaDB</td>
   </tr>
 </table>
 
