@@ -91,7 +91,7 @@ linkedin:  in/zhaochanglin
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ZharlieSineFine&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=4B91F1&icon_color=4B91F1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ZharlieSineFine&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=4B91F1&hide=html,css&exclude_repo=AR-Solar-System" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ZharlieSineFine&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=4B91F1&hide=jupyter%20notebook,html,css&exclude_repo=AR-Solar-System,TR3_Design_Sprint_G9_Prototype" alt="Top languages" />
 </p>
 
 <p align="center">
