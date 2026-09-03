@@ -26,24 +26,11 @@
 ## 👋 About
 
 ```yaml
-# TODO: add your actual job title on the `role:` line below.
-name:      Zhao Changlin (Charlie)
-role:      # <- your title here
+name:      Zhao Changlin (Charles)
 location:  Singapore 🇸🇬
 company:   PTC System
 email:     raphzhao@gmail.com
 linkedin:  in/zhaochanglin
-
-focus:
-  - building ML pipelines that survive contact with production
-  - recommender systems and retrieval-augmented generation
-  - turning coursework prototypes into things that actually run
-
-background:
-  - MSc coursework @ Singapore Management University  # CS610, CS614
-  - BSc Information Technology @ James Cook University Singapore
-
-motto: "No rush. Pace yourself."
 ```
 
 ---
