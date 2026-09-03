@@ -44,17 +44,20 @@ linkedin:  in/zhaochanglin
 **Data Engineering & Infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux,bash" alt="Infra stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,bash" alt="Infra stack" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/ChromaDB-2C3E50?style=for-the-badge" alt="ChromaDB" />
 </p>
 
 **Application & Web**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,flask,nodejs,kotlin,cs,unity" alt="App stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,flask,nodejs,kotlin,cs,unity" alt="App stack" />
 </p>
 
 **Tools**
