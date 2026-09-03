@@ -27,51 +27,79 @@ linkedin:  in/zhaochanglin
 
 ## 🧰 Tech Stack
 
-**Machine Learning & Data**
+**Machine Learning &amp; Data**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="ML stack" />
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" /><br>Python</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=pytorch" width="44" height="44" alt="PyTorch" /><br>PyTorch</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=sklearn" width="44" height="44" alt="scikit-learn" /><br>scikit-learn</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/pandas" width="44" height="44" alt="Pandas" /><br>Pandas</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/numpy" width="44" height="44" alt="NumPy" /><br>NumPy</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/jupyter" width="44" height="44" alt="Jupyter" /><br>Jupyter</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/huggingface" width="44" height="44" alt="Hugging Face" /><br>Hugging Face</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/langchain/5FBF9F" width="44" height="44" alt="LangChain" /><br>LangChain</td>
+  </tr>
+  <tr>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/ollama/8B949E" width="44" height="44" alt="Ollama" /><br>Ollama</td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-</p>
+<br clear="left"/>
 
-**Data Engineering & Infrastructure**
+**Data Engineering &amp; Infrastructure**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,linux,bash" alt="Infra stack" />
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" /><br>Docker</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" /><br>Linux</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" /><br>Bash</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/apachespark" width="44" height="44" alt="PySpark" /><br>PySpark</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/apacheairflow" width="44" height="44" alt="Airflow" /><br>Airflow</td>
+  </tr>
+  <tr>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/minio" width="44" height="44" alt="MinIO" /><br>MinIO</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/neo4j" width="44" height="44" alt="Neo4j" /><br>Neo4j</td>
+    <td align="center" width="92">ChromaDB</td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/ChromaDB-2C3E50?style=for-the-badge" alt="ChromaDB" />
-</p>
+<br clear="left"/>
 
-**Application & Web**
+**Application &amp; Web**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,flask,nodejs,kotlin,cs,unity" alt="App stack" />
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=flask" width="44" height="44" alt="Flask" /><br>Flask</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin" /><br>Kotlin</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=cs" width="44" height="44" alt="C#" /><br>C#</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=unity" width="44" height="44" alt="Unity" /><br>Unity</td>
+  </tr>
+</table>
+
+<br clear="left"/>
 
 **Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian" alt="Tools" />
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br>Git</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" /><br>VS Code</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" /><br>Figma</td>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=obsidian" width="44" height="44" alt="Obsidian" /><br>Obsidian</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/cursor/8B949E" width="44" height="44" alt="Cursor" /><br>Cursor</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/claudecode" width="44" height="44" alt="Claude Code" /><br>Claude Code</td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" />
-</p>
+<br clear="left"/>
 
 ---
 
