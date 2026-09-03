@@ -4,12 +4,12 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Charlie%20Zhao&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Applied%20Machine%20Learning%20Engineer&descAlignY=54&descSize=18&animation=fadeIn" alt="Charlie Zhao" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Charlie%20Zhao&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Machine%20Learning%20%C2%B7%20Data%20Engineering&descAlignY=54&descSize=18&animation=fadeIn" alt="Charlie Zhao" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ZharlieSineFine">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4B91F1&center=true&vCenter=true&width=560&lines=ML+pipelines%2C+recommenders%2C+and+RAG;MSc+Computer+Science+%40+SMU+Singapore;Systems+Support+%40+PTC+System;No+rush.+Pace+yourself." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4B91F1&center=true&vCenter=true&width=560&lines=ML+pipelines%2C+recommenders%2C+and+RAG;MSc+coursework+%40+SMU+Singapore;Based+in+Singapore+%40+PTC+System;No+rush.+Pace+yourself." alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,8 +26,9 @@
 ## 👋 About
 
 ```yaml
+# TODO: add your actual job title on the `role:` line below.
 name:      Zhao Changlin (Charlie)
-role:      Applied ML Engineer
+role:      # <- your title here
 location:  Singapore 🇸🇬
 company:   PTC System
 email:     raphzhao@gmail.com
@@ -90,7 +91,9 @@ motto: "No rush. Pace yourself."
 <details open>
 <summary><h2>📌 Featured Projects</h2></summary>
 
-<!-- TODO: tighten these one-liners — they're inferred from repo names, not from reading the code. -->
+<!-- TODO (placeholder): these one-liners are derived from repo names and GitHub
+     descriptions only — I did not read the code. Nothing here is invented, but
+     rewrite them in your own words when you get a chance. -->
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
@@ -125,12 +128,14 @@ motto: "No rush. Pace yourself."
 
 ## 🌱 Currently
 
-<!-- TODO: keep this short and refresh it every few months — a stale "Now" section reads worse than none. -->
+<!-- TODO (placeholder): rewrite these four bullets in your own words.
+     They are derived from public repo names only — not from anything
+     you have told me about your actual day-to-day work. -->
 
-- 🔭 Working on **data and ML pipeline reliability** at PTC System
-- 🌱 Going deeper on **retrieval-augmented generation** and **recommender system evaluation**
-- 🧪 Building small **Obsidian tooling** to keep my research notes searchable
-- 💬 Happy to talk about Airflow, feature pipelines, or anything vision-language
+- 🔭 Based in Singapore, working at **PTC System**
+- 🎓 MSc coursework at **Singapore Management University**
+- 🌱 Currently exploring **retrieval-augmented generation** and **recommender systems**
+- 💬 Happy to talk about Airflow, ML pipelines, or Obsidian tooling
 
 ---
 
