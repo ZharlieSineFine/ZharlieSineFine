@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Charlie%20Zhao&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Machine%20Learning%20%C2%B7%20Data%20Engineering&descAlignY=54&descSize=18&animation=fadeIn" alt="Charlie Zhao" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Zhao%20Changlin&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Machine%20Learning%20%C2%B7%20RAG%20%C2%B7%20Agentic%20AI&descAlignY=54&descSize=18&animation=fadeIn" alt="Zhao Changlin" />
 </p>
 
 <p align="center">
