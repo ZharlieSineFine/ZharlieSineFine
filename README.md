@@ -27,7 +27,6 @@
 ```yaml
 name:      Zhao Changlin (Charles)
 location:  Singapore 🇸🇬
-company:   PTC System
 email:     raphzhao@gmail.com
 linkedin:  in/zhaochanglin
 ```
