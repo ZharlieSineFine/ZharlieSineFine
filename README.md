@@ -1,6 +1,5 @@
 <!--
   ZharlieSineFine / ZharlieSineFine  —  GitHub profile README
-  Edit anything marked TODO before pushing.
 -->
 
 <p align="center">
@@ -37,40 +36,35 @@ linkedin:  in/zhaochanglin
 
 ## 🧰 Tech Stack
 
-**Machine Learning & Data**
+**Machine Learning & LLM**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="ML stack" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/RAG-2C3E50?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/QLoRA%20/%20PEFT-2C3E50?style=for-the-badge" alt="QLoRA / PEFT" />
+  <img src="https://img.shields.io/badge/HuggingFace%20TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace TRL" />
+  <img src="https://img.shields.io/badge/Unsloth-2C3E50?style=for-the-badge" alt="Unsloth" />
+  <img src="https://img.shields.io/badge/RAGAS-2C3E50?style=for-the-badge" alt="RAGAS" />
+  <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge" alt="XGBoost" />
+</p>
+
+**Data & Infrastructure**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql" alt="Infra stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/ChromaDB-2C3E50?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
-
-**Data Engineering & Infrastructure**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux,bash" alt="Infra stack" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
-</p>
-
-**Application & Web**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,flask,nodejs,kotlin,cs,unity" alt="App stack" />
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian" alt="Tools" />
 </p>
 
 ---
@@ -86,24 +80,6 @@ linkedin:  in/zhaochanglin
 | **[Reciprocal Recommender — Speed Dating](https://github.com/ZharlieSineFine/Speed-Dating-Reciprocal-Recommender-System)** | Leakage-safe reciprocal recommender predicting mutual matches on a very sparse dataset (8.3K pairs, 21 waves), using Leave-One-Wave-Out splits to prevent temporal leakage, plus an explainability layer decomposing 91 features into 9 interpretable themes. | `PyTorch` `scikit-learn` `Cornac` |
 | **[VLM Fine-Tuning with QLoRA](https://github.com/ZharlieSineFine/Mushroom-Edibility-Classification-Qwen2.5-7B-VLM-Fine-tuning)** | Fine-tuned Qwen2.5-VL-7B via 4-bit QLoRA across a 6-config hyperparameter sweep and a vision-only vs. vision+language ablation. Accuracy 60.6% → 90.4%, with 87.9% recall on the safety-critical poisonous class. | `Unsloth` `HuggingFace TRL` `QLoRA` |
 | **[annotator-explorer-companion](https://github.com/ZharlieSineFine/annotator-explorer-companion)** | Obsidian plugin — right-click a PDF or EPUB to create its Annotator note and open it in annotation view in one step. | `JavaScript` `Obsidian API` |
-
-</details>
-
-<details>
-<summary><h2>📚 Coursework &amp; Archive</h2></summary>
-
-<br>
-
-| Project | Subject |
-| :-- | :-- |
-| [Flight Cancellation Classification](https://github.com/ZharlieSineFine/Flight-Cancellation-Classification---CS610-Applied-Machine-Learning-G2-Group-Project) | CS610 Applied Machine Learning |
-| [CelebA Face Attributes Analysis](https://github.com/ZharlieSineFine/CelebA-Face-Attributes-Machine-Learning-Analysis) | Computer vision / multi-label classification |
-| [Bike Sharing Systems Analysis](https://github.com/ZharlieSineFine/Bike_Sharing_Systems_Machine_Learning_Analysis) | Regression and demand forecasting |
-| [Lateral Join Query Optimization](https://github.com/ZharlieSineFine/Lateral-Join-Query-Optimization) | Database internals |
-| [Information Security — Cryptanalysis](https://github.com/ZharlieSineFine/CP3404-Information-Security-Assignment-2-Python) | CP3404 Information Security |
-| [AR Solar System](https://github.com/ZharlieSineFine/AR-Solar-System) | CP3405 Design Thinking — Unity AR app |
-| [Kotlin Memory Puzzle](https://github.com/ZharlieSineFine/Kotlin-Memory-Puzzle) | Android / Kotlin |
-| [Python Travel Tracker](https://github.com/ZharlieSineFine/Python_Travel_Tracker) | CP1404 Programming II |
 
 </details>
 
