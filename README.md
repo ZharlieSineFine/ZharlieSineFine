@@ -78,18 +78,14 @@ linkedin:  in/zhaochanglin
 <details open>
 <summary><h2>📌 Featured Projects</h2></summary>
 
-<!-- TODO (placeholder): these one-liners are derived from repo names and GitHub
-     descriptions only — I did not read the code. Nothing here is invented, but
-     rewrite them in your own words when you get a chance. -->
-
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **[Medallion Airflow Pipeline](https://github.com/ZharlieSineFine/Machine-Learning-Engineering-Medallion-Airflow-Pipeline)** | Bronze → silver → gold ETL orchestrated with Airflow DAGs | `Airflow` `Python` |
-| **[Social Listener](https://github.com/ZharlieSineFine/Machine-Learning-Engineering-Group-9-Social-Listener)** ⭐3 | Social media listening and sentiment pipeline (team project) | `Python` |
-| **[Reciprocal Recommender System](https://github.com/ZharlieSineFine/Speed-Dating-Reciprocal-Recommender-System)** | Two-sided matching recommender on the speed-dating dataset | `Python` `scikit-learn` |
-| **[RAG with LLMs](https://github.com/ZharlieSineFine/CS614-GenAI-Group_1_RAG_Project)** | Retrieval-augmented generation project for CS614 Generative AI | `LangChain` `LLM` |
-| **[Qwen2.5-VL Fine-tuning](https://github.com/ZharlieSineFine/Mushroom-Edibility-Classification-Qwen2.5-7B-VLM-Fine-tuning)** | Fine-tuned a 7B vision-language model for mushroom edibility classification | `PyTorch` `VLM` |
-| **[annotator-explorer-companion](https://github.com/ZharlieSineFine/annotator-explorer-companion)** | Obsidian plugin — right-click a PDF/EPUB to create its Annotator note and open it in one step | `JavaScript` |
+| **[Credit Default Prediction — Medallion Pipeline](https://github.com/ZharlieSineFine/Machine-Learning-Engineering-Medallion-Airflow-Pipeline)** | Dockerized Airflow DAG running the full ML lifecycle for a digital lender. PySpark bronze→silver→gold ETL turning 375K+ records from four sources into a leakage-safe feature store across 25 monthly cohorts. Out-of-time AUC 0.76 → 0.81 (Gini 0.53 → 0.63). | `PySpark` `Airflow` `Docker` `XGBoost` |
+| **[BrewLeaf — Brand Sentiment Analysis](https://github.com/ZharlieSineFine/Machine-Learning-Engineering-Group-9-Social-Listener)** ⭐3 | End-to-end review sentiment analysis packaged as a reproducible MLOps stack: medallion pipeline, model tracked in MLflow, FastAPI serving, Streamlit dashboard, and drift monitoring with a human-in-the-loop retrain gate. | `MLflow` `FastAPI` `Streamlit` `Airflow` `Evidently` |
+| **[Adaptive Medical RAG](https://github.com/ZharlieSineFine/CS614-GenAI-Group_1_RAG_Project)** | Retrieval tailored to varying levels of health literacy. Benchmarked semantic, hybrid, RAG Fusion and HyDE strategies on ADA diabetes guidelines against an expert-curated golden set via LLM-as-a-Judge, lifting persona-based context precision 71% → 94%. | `ChromaDB` `RAGAS` `Ollama` `Python` |
+| **[Reciprocal Recommender — Speed Dating](https://github.com/ZharlieSineFine/Speed-Dating-Reciprocal-Recommender-System)** | Leakage-safe reciprocal recommender predicting mutual matches on a very sparse dataset (8.3K pairs, 21 waves), using Leave-One-Wave-Out splits to prevent temporal leakage, plus an explainability layer decomposing 91 features into 9 interpretable themes. | `PyTorch` `scikit-learn` `Cornac` |
+| **[VLM Fine-Tuning with QLoRA](https://github.com/ZharlieSineFine/Mushroom-Edibility-Classification-Qwen2.5-7B-VLM-Fine-tuning)** | Fine-tuned Qwen2.5-VL-7B via 4-bit QLoRA across a 6-config hyperparameter sweep and a vision-only vs. vision+language ablation. Accuracy 60.6% → 90.4%, with 87.9% recall on the safety-critical poisonous class. | `Unsloth` `HuggingFace TRL` `QLoRA` |
+| **[annotator-explorer-companion](https://github.com/ZharlieSineFine/annotator-explorer-companion)** | Obsidian plugin — right-click a PDF or EPUB to create its Annotator note and open it in annotation view in one step. | `JavaScript` `Obsidian API` |
 
 </details>
 
@@ -110,19 +106,6 @@ linkedin:  in/zhaochanglin
 | [Python Travel Tracker](https://github.com/ZharlieSineFine/Python_Travel_Tracker) | CP1404 Programming II |
 
 </details>
-
----
-
-## 🌱 Currently
-
-<!-- TODO (placeholder): rewrite these four bullets in your own words.
-     They are derived from public repo names only — not from anything
-     you have told me about your actual day-to-day work. -->
-
-- 🔭 Based in Singapore, working at **PTC System**
-- 🎓 MSc coursework at **Singapore Management University**
-- 🌱 Currently exploring **retrieval-augmented generation** and **recommender systems**
-- 💬 Happy to talk about Airflow, ML pipelines, or Obsidian tooling
 
 ---
 
