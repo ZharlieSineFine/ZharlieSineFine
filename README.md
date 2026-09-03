@@ -30,7 +30,7 @@ linkedin:  in/zhaochanglin
 **Machine Learning & Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="ML stack" />
 </p>
 
 <p align="left">
@@ -39,6 +39,7 @@ linkedin:  in/zhaochanglin
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
 **Data Engineering & Infrastructure**
@@ -48,6 +49,7 @@ linkedin:  in/zhaochanglin
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
