@@ -17,10 +17,17 @@
 ## 👋 About
 
 ```yaml
-name:      Zhao Changlin (Charles)
-location:  Singapore 🇸🇬
-email:     raphzhao@gmail.com
-linkedin:  in/zhaochanglin
+name:       Zhao Changlin (Charles)
+email:      raphzhao@gmail.com
+
+focus:
+  - retrieval-augmented generation
+  - recommender systems
+  - ML pipelines and orchestration
+
+studying:   MSc IT in Business, AI track — SMU, class of 2026
+previously: first assistant director in film and advertising production
+languages:  [English, 中文]
 ```
 
 ---
