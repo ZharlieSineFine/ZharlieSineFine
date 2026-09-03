@@ -63,6 +63,11 @@ linkedin:  in/zhaochanglin
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian" alt="Tools" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" />
+</p>
+
 ---
 
 <details open>
