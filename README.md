@@ -95,6 +95,11 @@ languages: [English, 中文]
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=obsidian" width="44" height="44" alt="Obsidian" /><br>Obsidian</td>
     <td align="center" width="92"><img src="https://cdn.simpleicons.org/cursor/8B949E" width="44" height="44" alt="Cursor" /><br>Cursor</td>
     <td align="center" width="92"><img src="https://cdn.simpleicons.org/claudecode" width="44" height="44" alt="Claude Code" /><br>Claude Code</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/deepseek" width="44" height="44" alt="DeepSeek Harness" /><br>DeepSeek Harness</td>
+  </tr>
+  <tr>
+    <td align="center" width="92"><img src="https://skillicons.dev/icons?i=pycharm" width="44" height="44" alt="PyCharm" /><br>PyCharm</td>
+    <td align="center" width="92"><img src="https://cdn.simpleicons.org/datagrip/8B949E" width="44" height="44" alt="DataGrip" /><br>DataGrip</td>
   </tr>
 </table>
 
