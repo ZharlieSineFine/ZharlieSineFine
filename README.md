@@ -12,14 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ZharlieSineFine?tab=followers"><img src="https://img.shields.io/github/followers/ZharlieSineFine?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://github.com/ZharlieSineFine?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/ZharlieSineFine?label=Stars&style=for-the-badge&color=55960c&labelColor=488207&logo=star&logoColor=white" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ZharlieSineFine&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/zhaochanglin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:raphzhao@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ---
 
 ## 👋 About
