@@ -29,7 +29,7 @@ linkedin:  in/zhaochanglin
 
 **Machine Learning &amp; Data**
 
-<table align="left">
+<table>
   <tr>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" /><br>Python</td>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=pytorch" width="44" height="44" alt="PyTorch" /><br>PyTorch</td>
@@ -45,11 +45,11 @@ linkedin:  in/zhaochanglin
   </tr>
 </table>
 
-<br clear="left"/>
+
 
 **Data Engineering &amp; Infrastructure**
 
-<table align="left">
+<table>
   <tr>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br>PostgreSQL</td>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /><br>MySQL</td>
@@ -67,11 +67,11 @@ linkedin:  in/zhaochanglin
   </tr>
 </table>
 
-<br clear="left"/>
+
 
 **Application &amp; Web**
 
-<table align="left">
+<table>
   <tr>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" /><br>JavaScript</td>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" /><br>TypeScript</td>
@@ -83,11 +83,11 @@ linkedin:  in/zhaochanglin
   </tr>
 </table>
 
-<br clear="left"/>
+
 
 **Tools**
 
-<table align="left">
+<table>
   <tr>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br>Git</td>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /><br>GitHub</td>
@@ -99,7 +99,7 @@ linkedin:  in/zhaochanglin
   </tr>
 </table>
 
-<br clear="left"/>
+
 
 ---
 
