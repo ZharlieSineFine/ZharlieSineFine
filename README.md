@@ -36,35 +36,40 @@ linkedin:  in/zhaochanglin
 
 ## 🧰 Tech Stack
 
-**Machine Learning & LLM**
+**Machine Learning & Data**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="ML stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="ML stack" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/RAG-2C3E50?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/QLoRA%20/%20PEFT-2C3E50?style=for-the-badge" alt="QLoRA / PEFT" />
-  <img src="https://img.shields.io/badge/HuggingFace%20TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace TRL" />
-  <img src="https://img.shields.io/badge/Unsloth-2C3E50?style=for-the-badge" alt="Unsloth" />
-  <img src="https://img.shields.io/badge/RAGAS-2C3E50?style=for-the-badge" alt="RAGAS" />
-  <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge" alt="XGBoost" />
-</p>
-
-**Data & Infrastructure**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql" alt="Infra stack" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/ChromaDB-2C3E50?style=for-the-badge" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+**Data Engineering & Infrastructure**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux,bash" alt="Infra stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+</p>
+
+**Application & Web**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,flask,nodejs,kotlin,cs,unity" alt="App stack" />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian" alt="Tools" />
 </p>
 
 ---
