@@ -18,7 +18,6 @@
 
 ```yaml
 name:      Zhao Changlin (Charles)
-email:     raphzhao@gmail.com
 studying:  Master of IT (AI track) at Singapore Management University
 languages: [English, 中文]
 ```
