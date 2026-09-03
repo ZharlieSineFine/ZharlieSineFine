@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ZharlieSineFine">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4B91F1&center=true&vCenter=true&width=560&lines=ML+pipelines%2C+recommenders%2C+and+RAG;MSc+coursework+%40+SMU+Singapore;Based+in+Singapore+%40+PTC+System;No+rush.+Pace+yourself." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=1500&color=4B91F1&center=true&vCenter=true&width=780&lines=The+impediment+to+action+advances+action.+%E2%80%94+Marcus+Aurelius;We+suffer+more+in+imagination+than+in+reality.+%E2%80%94+Seneca;A+journey+of+a+thousand+miles+begins+beneath+one%27s+feet.+%E2%80%94+Laozi;The+unexamined+life+is+not+worth+living.+%E2%80%94+Socrates" alt="Typing SVG" />
   </a>
 </p>
 
