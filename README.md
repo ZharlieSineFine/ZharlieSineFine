@@ -99,7 +99,7 @@ languages: [English, 中文]
   </tr>
   <tr>
     <td align="center" width="92"><img src="https://skillicons.dev/icons?i=pycharm" width="44" height="44" alt="PyCharm" /><br>PyCharm</td>
-    <td align="center" width="92"><img src="https://cdn.simpleicons.org/datagrip/8B949E" width="44" height="44" alt="DataGrip" /><br>DataGrip</td>
+    <td align="center" width="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="44" height="44" alt="DataGrip" /><br>DataGrip</td>
   </tr>
 </table>
 
